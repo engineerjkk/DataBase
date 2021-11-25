@@ -7,7 +7,7 @@
 2. Oprating (insert, delete, update, retrieve(검색)) -> 검색을 하기 위해서는 i,d,u가 잘 돼있어야한다.
 3. Constraint
 * 엔티티 : struct
-* relationship (어떤 것과 관계를 맺는 것) 
+* relationship (어떤 것과 관계를 맺는 것)   
 ![image](https://user-images.githubusercontent.com/76835313/143425091-a9314127-9c39-4673-b6e5-676ab1176487.png)
 ![image](https://user-images.githubusercontent.com/76835313/143425099-aade06cc-1a90-416e-adcc-5b153a7b40c2.png)
 ![image](https://user-images.githubusercontent.com/76835313/143425103-8fce24b4-c0a4-4a12-b15d-2a73ad62adca.png)
